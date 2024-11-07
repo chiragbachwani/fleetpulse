@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204404478676",
+    "project_id": "fleet-pulse",
+    "storage_bucket": "fleet-pulse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204404478676:android:c2eaa18bd2d66885ade141",
+        "android_client_info": {
+          "package_name": "com.fleet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKQ2x2bGF0J_v3804wzs5R4rM_os8hDWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
